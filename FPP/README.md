@@ -2,7 +2,7 @@
 ## Final Project Proposal  
 
 ### **Project Title**  
-**Hanako Is Hungry**
+**Hanako Is Hungy**
 
 ---
 
